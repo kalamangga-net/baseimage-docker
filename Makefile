@@ -1,5 +1,5 @@
-NAME = phusion/baseimage
-VERSION = 0.11
+NAME = kalamangga/debian-base
+VERSION = 0.1
 
 .PHONY: all build test tag_latest release ssh
 
